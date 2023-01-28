@@ -1,13 +1,13 @@
 
-# Praca z datasetem Iris
+# Iris dataset exercises 
 
-Zamieszczam notatnik, który wprowadza w ćwiczenia z datasetem Iris. 
-
-
+I am posting a notebook that introduces the Iris dataset exercises. 
 
 
-## Potrzebne biblioteki
-Aby uruchomić ten przykład musisz mieć zasinstalowany Jupyter Notebook oraz potrzebne biblioteki.
+
+
+## Necessary libaries
+To run this example you must have Jupyter Notebook installed and the necessary libraries.
 
 `pandas`
 
@@ -20,7 +20,7 @@ Aby uruchomić ten przykład musisz mieć zasinstalowany Jupyter Notebook oraz p
 
 
 
-## Konfiguracja
+## Configuration
 
 Plik `IRIS - IRIS.csv` powinien zostać umieszczony w tym samym folderze/katalogu co plik tego notatnika.
 
