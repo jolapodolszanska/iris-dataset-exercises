@@ -22,5 +22,5 @@ To run this example you must have Jupyter Notebook installed and the necessary l
 
 ## Configuration
 
-Plik `IRIS - IRIS.csv` powinien zostać umieszczony w tym samym folderze/katalogu co plik tego notatnika.
+The file `IRIS - IRIS.csv` should be placed in the same folder/directory as the file of this notepad.
 
