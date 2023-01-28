@@ -1,7 +1,7 @@
 
 # Praca z datasetem Iris
 
-Zamieszczam notatnik, który wprowadza w w ćwiczenia z datasetem Iris. 
+Zamieszczam notatnik, który wprowadza w ćwiczenia z datasetem Iris. 
 
 
 
